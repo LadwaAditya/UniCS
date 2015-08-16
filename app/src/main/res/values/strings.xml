@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UniCS</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="url">http://www.davana.bietdvg.edu</string>
+</resources>
